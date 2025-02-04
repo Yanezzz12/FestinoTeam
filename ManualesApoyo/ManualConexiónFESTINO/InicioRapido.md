@@ -1,4 +1,4 @@
-#Inicio rápido
+# Inicio rápido
 
 Para conectarse rapidamente al robot después de las configuraciones iniciales
 (Tener dos terminales)
