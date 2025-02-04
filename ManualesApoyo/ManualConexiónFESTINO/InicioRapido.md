@@ -15,6 +15,8 @@ Terminal 2: Terminal FESTINO
 En terminal FESTINO:
 1. ssh robotino@robotino
 2. [pwd] robotino
+
+
 (Verficar correcta conexión)
 3. rostopic list
 
