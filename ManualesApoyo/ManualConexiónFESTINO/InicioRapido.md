@@ -18,6 +18,8 @@ En terminal FESTINO:
 
 
 (Verficar correcta conexión)
+
+
 3. rostopic list
 
 
