@@ -8,3 +8,14 @@ Para conectarse rapidamente al robot después de las configuraciones iniciales:
 - TF: Para verficar correcta conexión usar comando: rostopic list
 
 
+
+
+
+
+
+
+
+
+
+Comandos básicos de funcionamiento:
+- rostopic echo [Nombre del nodo]
