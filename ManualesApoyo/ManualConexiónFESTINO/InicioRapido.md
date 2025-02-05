@@ -3,6 +3,9 @@
 Para conectarse rapidamente al robot después de las configuraciones iniciales
 
 
+Conectar cable
+
+
 (Tener dos terminales)
 
 
